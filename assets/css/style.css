@@ -1699,7 +1699,7 @@ img {
   margin-bottom: 10px;
 }
 .accordion .accordion-item.dark-mode {
-  background-color: var(--secondary-color);
+  background-color: #fff;
 }
 .accordion .accordion-item h2 button {
   font-size: 20px;
